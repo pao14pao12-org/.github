@@ -1,0 +1,6 @@
+{
+  "name": "Saludo del equipo",
+  "description": "Plantilla que llama al saludo reutilizable.",
+  "iconName": "octicon workflow",
+  "categories": ["Python"]
+}
